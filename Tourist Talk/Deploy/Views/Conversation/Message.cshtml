@@ -1,0 +1,26 @@
+﻿@model TouristTalk.Models.MessageViewModel
+<div style="background-color:@Model.BackgroundColour ;
+     color:black;padding:20px;width: 600px;
+     @Model.Align">
+    <h4 ">@Model.UserName at @Model.Message.MessageTime</h4>
+    <h3>@Model.Message.Text</h3>
+    @if (@Model.Message.FileType != String.Empty && @Model.Message.FileType.Substring(0, 5) == "image")
+    {
+        <img src="@Url.Action("GetMediaFile", "MediaFile", new { fileID = Model.Message.FileID } )"
+             width="480" height="400">
+    }
+    @if (Model.Message.FileType != String.Empty && Model.Message.FileType.Substring(0, 5) == "video")
+    {
+        <video id="videoPlay" width="480" height="400" controls>
+            <source src="@Url.Action("GetMediaFile", "MediaFile", new { fileID = Model.Message.FileID } )" />
+        </video>
+    }
+    @if (Model.Message.FileType != String.Empty && Model.Message.FileType.Substring(0, 5) == "audio")
+    {
+        <audio controls>
+            <source src="@Url.Action("GetMediaFile", "MediaFile", new { fileID = Model.Message.FileID } )">
+            Your browser does not support the audio tag.
+        </audio>
+    }
+</div>
+<br />

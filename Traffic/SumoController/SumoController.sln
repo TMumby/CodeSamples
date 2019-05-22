@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumoController", "SumoController\SumoController.csproj", "{9B412BF3-47B4-416D-9884-3E3F95386A4A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "SetupWizard\Setup\Setup.vdproj", "{89B775D0-10F2-4471-AEFE-63014BA16FB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B412BF3-47B4-416D-9884-3E3F95386A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B412BF3-47B4-416D-9884-3E3F95386A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B412BF3-47B4-416D-9884-3E3F95386A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B412BF3-47B4-416D-9884-3E3F95386A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89B775D0-10F2-4471-AEFE-63014BA16FB5}.Debug|Any CPU.ActiveCfg = Debug
+		{89B775D0-10F2-4471-AEFE-63014BA16FB5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,27 @@
+﻿@model TouristTalk.Models.MyConversationsViewModel
+@using TouristTalk.Models
+@{
+    ViewBag.Title = "MyConversations";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>MyConversations</h2>
+
+<table class="table">
+    <tr>
+        <th>Correspondent</th>
+        <th>Title</th>
+        <th>Start Time</th>
+        <th></th>
+    </tr>
+
+    @foreach (ConversationModel conversation in Model.ConversationList)
+    {
+        <tr>
+            <td>@conversation.OtherUser.UserName</td>
+            <td>@conversation.Title</td>
+            <td>@conversation.StartTime</td>
+            <td>@Html.ActionLink("Go To", "Conversation", new { id = conversation.ID })</td>
+        </tr>
+    }
+</table>

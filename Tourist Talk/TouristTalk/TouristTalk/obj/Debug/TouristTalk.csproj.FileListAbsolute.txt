@@ -1,0 +1,168 @@
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\roslyn\csc.exe
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\roslyn\System.Collections.Immutable.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\roslyn\System.Reflection.Metadata.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\roslyn\vbc.exe
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\roslyn\VBCSCompiler.exe
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\roslyn\VBCSCompiler.exe.config
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\TouristTalk.dll.config
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\TouristTalk.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\TouristTalk.pdb
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\CommonServiceLocator.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\Microsoft.Web.Infrastructure.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\System.Web.Helpers.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\System.Web.Mvc.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\System.Web.Razor.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\System.Web.Webpages.Deployment.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\System.Web.Webpages.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\System.Web.Webpages.Razor.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\Unity.Abstractions.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\Unity.Configuration.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\Unity.Container.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\Unity.Interception.Configuration.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\Unity.Interception.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\Unity.RegistrationByConvention.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\Unity.ServiceLocation.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\CommonServiceLocator.pdb
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\Unity.Abstractions.pdb
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\Unity.Configuration.pdb
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\Unity.Container.pdb
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\Unity.Interception.pdb
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\Unity.Interception.Configuration.pdb
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\Unity.RegistrationByConvention.pdb
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\Unity.ServiceLocation.pdb
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\System.Web.Razor.xml
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\System.Web.Webpages.xml
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\System.Web.Webpages.Deployment.xml
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\System.Web.Webpages.Razor.xml
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\System.Web.Helpers.xml
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\System.Web.Mvc.xml
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\obj\Debug\TouristTalk.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\obj\Debug\TouristTalk.pdb
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\Antlr3.Runtime.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\Newtonsoft.Json.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\System.Web.Optimization.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\WebGrease.dll
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\Antlr3.Runtime.pdb
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\Newtonsoft.Json.xml
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\bin\System.Web.Optimization.xml
+E:\Software Development\Advanced Software Coursework\TouristTalk\TouristTalk\obj\Debug\TouristTalk.csprojResolveAssemblyReference.cache
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\csc.exe
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\System.Collections.Immutable.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\System.Reflection.Metadata.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\vbc.exe
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\VBCSCompiler.exe
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\VBCSCompiler.exe.config
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\TouristTalk.dll.config
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\TouristTalk.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\TouristTalk.pdb
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\Antlr3.Runtime.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\CommonServiceLocator.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\Microsoft.Web.Infrastructure.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\Newtonsoft.Json.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Helpers.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Mvc.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Optimization.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Razor.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Webpages.Deployment.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Webpages.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Webpages.Razor.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.Abstractions.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.Configuration.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.Container.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.Interception.Configuration.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.Interception.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.RegistrationByConvention.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.ServiceLocation.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\WebGrease.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\Antlr3.Runtime.pdb
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\CommonServiceLocator.pdb
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\Newtonsoft.Json.xml
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Optimization.xml
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.Abstractions.pdb
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.Configuration.pdb
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.Container.pdb
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.Interception.pdb
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.Interception.Configuration.pdb
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.RegistrationByConvention.pdb
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.ServiceLocation.pdb
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Razor.xml
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Webpages.xml
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Webpages.Deployment.xml
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Webpages.Razor.xml
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Helpers.xml
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Mvc.xml
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\obj\Debug\TouristTalk.dll
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\obj\Debug\TouristTalk.pdb
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\csc.exe
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\Microsoft.CodeAnalysis.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\Microsoft.CSharp.Core.targets
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\System.Collections.Immutable.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\System.Reflection.Metadata.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\vbc.exe
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\VBCSCompiler.exe
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\roslyn\VBCSCompiler.exe.config
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\TouristTalk.dll.config
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\TouristTalk.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\TouristTalk.pdb
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\Antlr3.Runtime.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\CommonServiceLocator.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\Microsoft.Web.Infrastructure.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\Newtonsoft.Json.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Helpers.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Mvc.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Optimization.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Razor.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Webpages.Deployment.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Webpages.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Webpages.Razor.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.Abstractions.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.Configuration.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.Container.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.Interception.Configuration.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.Interception.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.RegistrationByConvention.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.ServiceLocation.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\WebGrease.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\Antlr3.Runtime.pdb
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\CommonServiceLocator.pdb
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\Newtonsoft.Json.xml
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Optimization.xml
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.Abstractions.pdb
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.Configuration.pdb
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.Container.pdb
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.Interception.pdb
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.Interception.Configuration.pdb
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.RegistrationByConvention.pdb
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\Unity.ServiceLocation.pdb
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Razor.xml
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Webpages.xml
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Webpages.Deployment.xml
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Webpages.Razor.xml
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Helpers.xml
+K:\Tourist Talk\TouristTalk\TouristTalk\bin\System.Web.Mvc.xml
+K:\Tourist Talk\TouristTalk\TouristTalk\obj\Debug\TouristTalk.dll
+K:\Tourist Talk\TouristTalk\TouristTalk\obj\Debug\TouristTalk.pdb
+K:\Tourist Talk\TouristTalk\TouristTalk\obj\Debug\TouristTalk.csprojResolveAssemblyReference.cache
+E:\Software Development\Advanced Software Coursework\Tourist Talk\TouristTalk\TouristTalk\obj\Debug\TouristTalk.csprojResolveAssemblyReference.cache

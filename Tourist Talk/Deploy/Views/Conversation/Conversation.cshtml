@@ -1,0 +1,20 @@
+﻿@using TouristTalk.Models;
+@model TouristTalk.Models.ConversationViewModel
+
+@{
+    ViewBag.Title = "Conversation";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h1 align="center">@Model.Title</h1>
+<h3 align ="center">Conversation with @Model.OtherUser</h3>
+<h3 align ="center">Started at @Model.StartTime by: @Model.InstigatorName</h3>
+
+
+<div class="row">
+    @foreach (MessageModel message in Model.Messages)
+    {
+        @Html.Partial("Message", new MessageViewModel(message, Model))
+    }
+
+    @Html.Partial("NewMessage", Model)
+</div>

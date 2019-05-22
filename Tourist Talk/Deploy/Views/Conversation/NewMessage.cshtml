@@ -1,0 +1,35 @@
+﻿@model TouristTalk.Models.ConversationViewModel
+
+<div style="background-color:IndianRed;
+     color:black;padding:20px;width: 1100px;">
+    <section id="messageForm">
+        @using (Html.BeginForm("Conversation", "Conversation", FormMethod.Post, new { @class = "form-horizontal", enctype = "multipart/form-data" }))
+            {
+            @Html.AntiForgeryToken()
+            @Html.HiddenFor(m => m.ConversationID)
+            <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.LabelFor(m => m.NewMessageText, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.NewMessageText, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.NewMessageText, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(m => m.File, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.File, new { type = "file", @class = "input-file" })
+                        @Html.ValidationMessageFor(m => m.File, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Send" class="btn btn-default" />
+                    </div>
+                </div>
+        }
+    </section>
+</div>
